@@ -34,5 +34,5 @@ https://drive.google.com/drive/folders/1Nm1673tPy_t8x69e5tvQTan0dQsGf-OM?usp=dri
 }
 ```
 
-If you have any questions, please get in touch with us: chenbingzhi@bit.edu.cn or fangxiaocheng162@gmail.com.
+If you have any questions, please get in touch with us: chenbingzhi@bit.edu.cn or fangxiaocheng162@gmail.com
 .
